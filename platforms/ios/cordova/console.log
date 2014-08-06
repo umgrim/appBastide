@@ -106,3 +106,18 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-08-06 02:07:05.863 HelloCordova[20612:70b] [CDVTimer][TotalPluginStartup] 10.716975ms
 2014-08-06 02:07:06.012 HelloCordova[20612:70b] Resetting plugins due to page load.
 2014-08-06 02:07:06.753 HelloCordova[20612:70b] Finished load of: file:///Users/umgrimparadisos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/F6C02F16-4350-4051-BE43-500178678080/HelloCordova.app/www/index.html
+2014-08-06 08:37:01.691 HelloCordova[23546:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-06 08:37:01.698 HelloCordova[23546:70b] Unlimited access to network resources
+2014-08-06 08:37:01.702 HelloCordova[23546:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-06 08:37:01.759 HelloCordova[23546:70b] [CDVTimer][statusbar] 43.125987ms
+2014-08-06 08:37:01.760 HelloCordova[23546:70b] [CDVTimer][TotalPluginStartup] 43.572009ms
+2014-08-06 08:37:01.938 HelloCordova[23546:70b] Resetting plugins due to page load.
+2014-08-06 08:37:02.752 HelloCordova[23546:70b] Finished load of: file:///Users/umgrimparadisos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/077C5E09-423D-4A6F-ABDF-85C615FFB6E9/HelloCordova.app/www/index.html
+2014-08-06 08:37:15.515 HelloCordova[23546:70b] Resetting plugins due to page load.
+2014-08-06 08:37:15.745 HelloCordova[23546:70b] Finished load of: file:///Users/umgrimparadisos/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/077C5E09-423D-4A6F-ABDF-85C615FFB6E9/HelloCordova.app/www/homepage.html
