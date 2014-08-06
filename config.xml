@@ -9,4 +9,8 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <feature name="StatusBar">
+        <param name="ios-package" value="CDVStatusBar" onload="false" />
+    </feature>
+    <preference name="StatusBarOverlaysWebView" value="true" />
 </widget>
